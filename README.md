@@ -1,5 +1,6 @@
 # 4-i-rad-fejk
-Fäke repository - that is really really fake - to explain git/github
+
+Fake repository - that is really really fake - to teach git/github
 
 Now I make changes in the README-file.
 
